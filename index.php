@@ -47,6 +47,8 @@ if (!empty($_POST) &&  $_POST['form'] == 'logout') {
 </head>
 
 <body>
+  <body style="background-color:powderblue;">
+
 
   <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
     <a class="navbar-brand" href="/">Yummy</a>
